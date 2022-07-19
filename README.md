@@ -1,4 +1,4 @@
-# A BIOMETRICS ATTENDANCE REGISTER PPROTOTYPE
+# A BIOMETRICS ATTENDANCE REGISTER PROTOTYPE
 
 ## Introduction
 
@@ -15,7 +15,7 @@ Being developed from scratch, this vast project is uptaken with a dozen and thre
 
 | NAME      | TRACK     |   CONTACT     |
 |-----      | -----     |   -------     |
-| Steve Austin      | TRACK     |   CONTACT     |
+| Steve Austin      | Documentation and Guides     |   austines811@gmail.com     |
 | Stanely Mayore      | TRACK     |   CONTACT     |
 | Dennis Kimathi      | TRACK     |   CONTACT     |
 | Dennis Kosgei      | TRACK     |   CONTACT     |
