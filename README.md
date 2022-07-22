@@ -9,38 +9,125 @@ In view of the manual attendance register system, it was found to be cumbersome,
 
 >## Solution
 
-With the advent of tech and it's encouraged inception, it is found valid to not only embrace it in solving such day to day problems as above, but to also do so in a revolutionary and inventive manner. In this light thus, biometrics as a default unique feature in humans was decided as a nethod that would not only come through to fill the gap, but also do so in a secure, robust and timely manner. This thus provides the design and implementation of a biometrics system that will be used in place of the papers used before.
-## Authors
-Being developed from scratch, this vast project is uptaken with a dozen and three engineers, who are tabulated below.
+With the advent of tech and it's encouraged inception, it is found valid to not only embrace it in solving such day to day problems as above, but to also do so in a revolutionary and inventive manner. In this light thus, biometrics as a unique feature in humans was decided as a method that would not only come through to bridge the gap, but also do so in a secure, robust and efficient manner. This thus poject thus is aimed at designing and implementing a biometrics register system that will be used in place of the manual paper registers used before.
+## Author information
+Being developed from scratch, this vast project is uptaken by a team of passionate engineers, all with various expertise in the various important fields the project is built on.
 
-| NAME      | TRACK     |   CONTACT     |
-|-----      | -----     |   -------     |
-| Steve Austin      | Documentation and Guides     |   austines811@gmail.com     |
-| Stanely Mayore      | TRACK     |   CONTACT     |
-| Dennis Kimathi      | TRACK     |   CONTACT     |
-| Dennis Kosgei      | TRACK     |   CONTACT     |
-| Kelvin Achiando      | TRACK     |   CONTACT     |
-| Brian Koskei      | TRACK     |   CONTACT     |
-| Julius Wandera      | TRACK     |   CONTACT     |
-| Tim Mailu      | TRACK     |   CONTACT     |
-| Simon Waronja      | TRACK     |   CONTACT     |
-| Francis Adhiambo      | TRACK     |   CONTACT     |
-| Wycliffe Ndiba      | TRACK     |   CONTACT     |
-| Wandia Mugo      | TRACK     |   CONTACT     |
-| Omar Mahat      | TRACK     |   CONTACT     |
-| Eliazar Magero      | TRACK     |   CONTACT     |
-| Alex Kiragu      | TRACK     |   CONTACT     |
-| Wilbright Amugune      | TRACK     |   CONTACT     |
-| Eric Muthuri      | TRACK     |   CONTACT     |
+This team is presented in a tabular view as below.
+
+| NAME      | TRACK     |   CONTACT     |  devHolla     |
+|-----      | -----     |   -------     | ---- |
+| Steve Austin      | Documentation and Guides     |   austines811@gmail.com     | [connect on Whatsapp](https://wa.me/254706520652) |
+| Stanely Mayore      | TRACK     |   CONTACT     |  [link](...) |
+| Dennis Kimathi      | TRACK     |   CONTACT     |  [link](...) |
+| Dennis Kosgei      | TRACK     |   CONTACT     |  [link](...) |
+| Kelvin Achiando      | TRACK     |   CONTACT     |  [link](...) |
+| Brian Koskei      | TRACK     |   CONTACT     |  [link](...) |
+| Julius Wandera      | TRACK     |   CONTACT     |  [link](...) |
+| Tim Mailu      | TRACK     |   CONTACT     |  [link](...) |
+| Simon Waronja      | TRACK     |   CONTACT     |  [link](...) |
+| Francis Adhiambo      | TRACK     |   CONTACT     |  [link](...) |
+| Wycliffe Ndiba      | TRACK     |   CONTACT     |  [link](...) |
+| Wandia Mugo      | TRACK     |   CONTACT     |  [link](...) |
+| Omar Mahat      | TRACK     |   CONTACT     |  [link](...) |
+| Eliazar Magero      | TRACK     |   CONTACT     |  [link](...) |
+| Alex Kiragu      | TRACK     |   CONTACT     |  [link](...) |
+| Wilbright Amugune      | TRACK     |   CONTACT     |  [link](...) |
+| Eric Muthuri      | TRACK     |   CONTACT     |  [link](...) |
 
 ## Event data and timeline
 > 17th Jul
+* Event
+
+    * Problem statement and solution discussion.
 
 > 18th July
+* Event
 
-> 19th Jul
+    * Workspace formulation and field grouping
 
-> 20th Jul
+> 19th July
+* Event
+
+    *   Project Representative sync and report.
+
+> 20th July
+* Event
+
+    * Team discussions and research homework.
+
+> 21st July
+* Event
+
+    * Late onboard and induction.
+    * Track confirmation and placement of new members.
+    * UI/UX Progress report and expectation
+    * Field team volunteering
+    * Colaboration insights and propositions
+
+> 22nd July
+
+## Foreword and Setup
+---
+As noted in the sections before, the project is divided into various interelating tracks which are expounded on below, with a provision for all the requirements and or dependencies to run the files, access the resources and their related data.
+
+---
+
+## _UI/UX DESIGN_
+>Technologies used
+1.
+1.
+1.
+1.
+
+>Instructions
+
+>Important links and resources
+* Design [Template]()
+* Design [Ilustrations]()
+* Design [Wireframes]()
+* Design [Notes]()
+
+## _FONTEND_
+
+>Technologies used
+1.
+1.
+1.
+1.
+>Set-up instructions
+
+`
+install dependencies
+`
+
+[Deployed]()
+
+## _BACKEND_
+>Technologies used
+1.
+1.
+1.
+1.
+>Set-up instructions
+
+`
+port
+`
+
+[Hosted]()
+
+
+## _DOCS AND GUIDES_
+V 1.0
+
+>Important links
+
+[README]()
+
+[LICENSE]()
+
+[ACKNOWLEDGEMENTS]()
 
 
 
