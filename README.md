@@ -19,7 +19,7 @@ This team is presented in a tabular view as below.
 |-----      | -----     |   -------     | ---- |
 | Steve Austin      | Documentation and Guides     |   austines811@gmail.com     | [connect on Whatsapp](https://wa.me/254706520652) |
 | Stanely Mayore      | Backend Development     |   stanleymayore2@gmail.com    |  [LinkedIn](www.linkedin.com/in/stanley-mayore) |
-| Dennis Kimathi      | UI Designer && Frontend Development    |   kimathidennis38@gmail.com    |  [link](https://www.linkedin.com/in/dennis-kimathi-46326711b/) |
+| Dennis Kimathi      | UI Designer && Frontend Development    |   kimathidennis38@gmail.com    |  [LinkedIn](https://www.linkedin.com/in/dennis-kimathi-46326711b/) |
 | Dennis Kosgei      | TRACK     |   CONTACT     |  [link](...) |
 | Kelvin Achiando      | TRACK     |   CONTACT     |  [link](...) |
 | Brian Koskei      | TRACK     |   CONTACT     |  [link](...) |
