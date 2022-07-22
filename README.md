@@ -18,7 +18,7 @@ This team is presented in a tabular view as below.
 | NAME      | TRACK     |   CONTACT     |  devHolla     |
 |-----      | -----     |   -------     | ---- |
 | Steve Austin      | Documentation and Guides     |   austines811@gmail.com     | [connect on Whatsapp](https://wa.me/254706520652) |
-| Stanely Mayore      | TRACK     |   CONTACT     |  [link](...) |
+| Stanely Mayore      | Backend Development     |   stanleymayore2@gmail.com    |  [LinkedIn](www.linkedin.com/in/stanley-mayore) |
 | Dennis Kimathi      | TRACK     |   CONTACT     |  [link](...) |
 | Dennis Kosgei      | TRACK     |   CONTACT     |  [link](...) |
 | Kelvin Achiando      | TRACK     |   CONTACT     |  [link](...) |
