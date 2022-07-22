@@ -49,7 +49,7 @@ This team is presented in a tabular view as below.
 > 19th July
 * Event
 
-    *   Project Representative sync and report.
+    * Project Representative sync and report.
 
 > 20th July
 * Event
@@ -75,10 +75,11 @@ As noted in the sections before, the project is divided into various interelatin
 
 ## _UI/UX DESIGN_
 >Technologies used
-1.
-1.
-1.
-1.
+
+1. a
+1. b
+1. c
+1. d
 
 >Instructions
 
@@ -91,10 +92,11 @@ As noted in the sections before, the project is divided into various interelatin
 ## _FONTEND_
 
 >Technologies used
-1.
-1.
-1.
-1.
+
+1. a
+1. b
+1. c
+1. d
 >Set-up instructions
 
 `
@@ -105,10 +107,11 @@ install dependencies
 
 ## _BACKEND_
 >Technologies used
-1.
-1.
-1.
-1.
+
+1. a
+1. b
+1. c
+1. d
 >Set-up instructions
 
 `
