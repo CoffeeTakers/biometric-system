@@ -24,7 +24,7 @@ This team is presented in a tabular view as below.
 | Kelvin Achiando      | TRACK     |   CONTACT     |  [link](...) |
 | Brian Koskei      | TRACK     |   CONTACT     |  [link](...) |
 | Julius Wandera      | TRACK     |   CONTACT     |  [link](...) |
-| Tim Mailu      | TRACK     |   CONTACT     |  [link](...) |
+| Tim Mailu      | Backend Development     |   tim.mailu@gmail.com     |  [LinkedIn](https://www.linkedin.com/in/mailutim/) |
 | Simon Waronja      | TRACK     |   CONTACT     |  [link](...) |
 | Francis Adhiambo      | TRACK     |   CONTACT     |  [link](...) |
 | Wycliffe Ndiba      | TRACK     |   CONTACT     |  [link](...) |
