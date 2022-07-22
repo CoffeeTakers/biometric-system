@@ -31,7 +31,7 @@ This team is presented in a tabular view as below.
 | Wandia Mugo      | TRACK     |   CONTACT     |  [link](...) |
 | Omar Mahat      | TRACK     |   CONTACT     |  [link](...) |
 | Eliazar Magero      | TRACK     |   CONTACT     |  [link](...) |
-| Alex Kiragu      | Frontend Development     |   alemba97@gmail.com     |  [LinkedIn](www.linkedin.com/in/alex-kiragu-754690219) |
+| Alex Kiragu      | UI/UX     |   alemba97@gmail.com     |  [LinkedIn](www.linkedin.com/in/alex-kiragu-754690219) |
 | Wilbright Amugune      | TRACK     |   CONTACT     |  [link](...) |
 | Eric Muthuri      | TRACK     |   CONTACT     |  [link](...) |
 
