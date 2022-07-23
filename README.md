@@ -29,7 +29,7 @@ This team is presented in a tabular view as below.
 | Francis Adhiambo      | TRACK     |   CONTACT     |  [link](...) |
 | Wycliffe Ndiba      | TRACK     |   CONTACT     |  [link](...) |
 | Wandia Mugo      | TRACK     |   CONTACT     |  [link](...) |
-| Omar Mahat      | Frrontend Development     |   omarmahat702@gmail.com     |  [LinkedIn](https://www.linkedin.com/in/omar-mahat-33b289244/) |
+| Omar Mahat      | Frontend Development     |   omarmahat702@gmail.com     |  [LinkedIn](https://www.linkedin.com/in/omar-mahat-33b289244/) |
 | Eliazar Magero      | TRACK     |   CONTACT     |  [link](...) |
 | Alex Kiragu      | TRACK     |   CONTACT     |  [link](...) |
 | Wilbright Amugune      | TRACK     |   CONTACT     |  [link](...) |
