@@ -27,7 +27,7 @@ This team is presented in a tabular view as below.
 | Tim Mailu      | Backend Development     |   tim.mailu@gmail.com     |  [LinkedIn](https://www.linkedin.com/in/mailutim/) |
 | Simon Waronja      | TRACK     |   CONTACT     |  [link](...) |
 | Francis Adhiambo      | TRACK     |   CONTACT     |  [link](...) |
-| Wycliffe Ndiba      | TRACK     |   CONTACT     |  [link](...) |
+| Wycliffe Ndiba      | Frontend Development     |   w.ndiba@gmail.com     |  [LinkedIn](https://www.linkedin.com/in/wycliffe-ndiba-834332141/) |
 | Wandia Mugo      | TRACK     |   CONTACT     |  [link](...) |
 | Omar Mahat      | Frrontend Development     |   omarmahat702@gmail.com     |  [LinkedIn](https://www.linkedin.com/in/omar-mahat-33b289244/) |
 | Eliazar Magero      | TRACK     |   CONTACT     |  [link](...) |
