@@ -19,7 +19,7 @@ This team is presented in a tabular view as below.
 |-----      | -----     |   -------     | ---- |
 | Steve Austin      | Documentation and Guides     |   austines811@gmail.com     | [connect on Whatsapp](https://wa.me/254706520652) |
 | Stanely Mayore      | Backend Development     |   stanleymayore2@gmail.com    |  [LinkedIn](www.linkedin.com/in/stanley-mayore) |
-| Dennis Kimathi      | TRACK     |   CONTACT     |  [link](...) |
+| Dennis Kimathi      | UI Designer && Frontend Development    |   kimathidennis38@gmail.com    |  [LinkedIn](https://www.linkedin.com/in/dennis-kimathi-46326711b/) |
 | Dennis Kosgei      | TRACK     |   CONTACT     |  [link](...) |
 | Kelvin Achiando      | TRACK     |   CONTACT     |  [link](...) |
 | Brian Koskei      | TRACK     |   CONTACT     |  [link](...) |
@@ -31,34 +31,39 @@ This team is presented in a tabular view as below.
 | Wandia Mugo      | TRACK     |   CONTACT     |  [link](...) |
 | Omar Mahat      | Frontend Development     |   omarmahat702@gmail.com     |  [LinkedIn](https://www.linkedin.com/in/omar-mahat-33b289244/) |
 | Eliazar Magero      | TRACK     |   CONTACT     |  [link](...) |
-| Alex Kiragu      | TRACK     |   CONTACT     |  [link](...) |
+| Alex Kiragu      | UI/UX     |   alemba97@gmail.com     |  [LinkedIn](www.linkedin.com/in/alex-kiragu-754690219) |
 | Wilbright Amugune      | TRACK     |   CONTACT     |  [link](...) |
 | Eric Muthuri      | TRACK     |   CONTACT     |  [link](...) |
 
 ## Event data and timeline
-> 17th Jul
-* Event
+
+> 17th July
+
+    * Event
 
     * Problem statement and solution discussion.
 
 > 18th July
-* Event
+
+    * Event
 
     * Workspace formulation and field grouping
 
 > 19th July
-* Event
+
+    * Event
 
     * Project Representative sync and report.
 
 > 20th July
-* Event
+
+    * Event
 
     * Team discussions and research homework.
 
 > 21st July
-* Event
 
+    * Event
     * Late onboard and induction.
     * Track confirmation and placement of new members.
     * UI/UX Progress report and expectation
@@ -74,6 +79,7 @@ As noted in the sections before, the project is divided into various interelatin
 ---
 
 ## _UI/UX DESIGN_
+
 >Technologies used
 
 1. a
@@ -84,10 +90,11 @@ As noted in the sections before, the project is divided into various interelatin
 >Instructions
 
 >Important links and resources
-* Design [Template]()
-* Design [Ilustrations]()
-* Design [Wireframes]()
-* Design [Notes]()
+
+   * Design [Template]()
+   * Design [Ilustrations]()
+   * Design [Wireframes]()
+   * Design [Notes]()
 
 ## _FONTEND_
 
@@ -97,6 +104,7 @@ As noted in the sections before, the project is divided into various interelatin
 1. b
 1. c
 1. d
+
 >Set-up instructions
 
 `
@@ -106,12 +114,14 @@ install dependencies
 [Deployed]()
 
 ## _BACKEND_
+
 >Technologies used
 
 1. a
 1. b
 1. c
 1. d
+
 >Set-up instructions
 
 `
@@ -122,13 +132,22 @@ port
 
 
 ## _DOCS AND GUIDES_
+
 V 1.0
 
 >Important links
 
 [README]()
 
-[LICENSE]()
+## License
+
+Copyright(c) [2022][Alemba Alex]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files , to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 [ACKNOWLEDGEMENTS]()
 
