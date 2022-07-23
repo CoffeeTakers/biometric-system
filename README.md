@@ -20,14 +20,14 @@ This team is presented in a tabular view as below.
 | Steve Austin      | Documentation and Guides     |   austines811@gmail.com     | [connect on Whatsapp](https://wa.me/254706520652) |
 | Stanely Mayore      | Backend Development     |   stanleymayore2@gmail.com    |  [LinkedIn](www.linkedin.com/in/stanley-mayore) |
 | Dennis Kimathi      | UI Designer && Frontend Development    |   kimathidennis38@gmail.com    |  [LinkedIn](https://www.linkedin.com/in/dennis-kimathi-46326711b/) |
-| Dennis Kosgei      | TRACK     |   CONTACT     |  [link](...) |
+| Dennis Kosgei      | UI Designer && Frontend Development   |   denoowkoske@gmail.com     |  [Linkedin](https://www.linkedin.com/in/dennis-cheruiyot-a93538213/) |
 | Kelvin Achiando      | TRACK     |   CONTACT     |  [link](...) |
 | Brian Koskei      | TRACK     |   CONTACT     |  [link](...) |
 | Julius Wandera      | TRACK     |   CONTACT     |  [link](...) |
 | Tim Mailu      | Backend Development     |   tim.mailu@gmail.com     |  [LinkedIn](https://www.linkedin.com/in/mailutim/) |
 | Simon Waronja      | TRACK     |   CONTACT     |  [link](...) |
-| Francis Adhiambo      | TRACK     |   CONTACT     |  [link](...) |
-| Wycliffe Ndiba      | TRACK     |   CONTACT     |  [link](...) |
+| Francis Odhiambo      | Frontend Developement   |   CONTACT     |  [LinkedIn](https://www.linkedin.com/in/francis-odhiambo-79a169160/) |
+| Wycliffe Ndiba      | Frontend Development     |   w.ndiba@gmail.com     |  [LinkedIn](https://www.linkedin.com/in/wycliffe-ndiba-834332141/) |
 | Wandia Mugo      | TRACK     |   CONTACT     |  [link](...) |
 | Omar Mahat      | Frontend Development     |   omarmahat702@gmail.com     |  [LinkedIn](https://www.linkedin.com/in/omar-mahat-33b289244/) |
 | Eliazar Magero      | TRACK     |   CONTACT     |  [link](...) |
