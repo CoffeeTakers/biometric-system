@@ -34,6 +34,8 @@ This team is presented in a tabular view as below.
 | Alex Kiragu      | UI/UX     |   alemba97@gmail.com     |  [LinkedIn](www.linkedin.com/in/alex-kiragu-754690219) |
 | Wilbright Amugune      | TRACK     |   CONTACT     |  [link](...) |
 | Eric Muthuri      | TRACK     |   CONTACT     |  [link](...) |
+| Silvia Mutete     | Fronted Development    |   CONTACT     |  [LinkedIn] (https://www.linkedin.com/in/silvia-mutete-06b397203/) |
+
 
 ## Event data and timeline
 
