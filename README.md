@@ -28,7 +28,7 @@ This team is presented in a tabular view as below.
 | Simon Waronja      | TRACK     |   CONTACT     |  [link](...) |
 | Francis Odhiambo      | Frontend Developement   |   CONTACT     |  [LinkedIn](https://www.linkedin.com/in/francis-odhiambo-79a169160/) |
 | Wycliffe Ndiba      | Frontend Development     |   w.ndiba@gmail.com     |  [LinkedIn](https://www.linkedin.com/in/wycliffe-ndiba-834332141/) |
-| Wandia Mugo      | TRACK     |   CONTACT     |  [link](...) |
+| Wandia Mugo      | Front End Development && Communication    |   wwandia173@gmail.com     |  [Linked In]https://www.linkedin.com/in/wandia-mugo-ab03291b3/() |
 | Omar Mahat      | Frrontend Development     |   omarmahat702@gmail.com     |  [LinkedIn](https://www.linkedin.com/in/omar-mahat-33b289244/) |
 | Eliazar Magero      | TRACK     |   CONTACT     |  [link](...) |
 | Alex Kiragu      | UI/UX     |   alemba97@gmail.com     |  [LinkedIn](www.linkedin.com/in/alex-kiragu-754690219) |
